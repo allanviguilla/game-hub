@@ -1,5 +1,5 @@
 # Game Hub 
-A video game discovery app created with React and TypeScript
+A video game discovery app created with React and TypeScript interacting with Rawg API
 
 ### Tech Used
 ![Axios](https://img.shields.io/badge/axios-5a29e4.svg?style=for-the-badge&logo=axios&logoColor=white)
